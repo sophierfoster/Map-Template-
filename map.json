@@ -230,7 +230,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/m18.uni-weimar.de\/pad\/p\/4_ZOF6kLrRqSiSGWariA"
+                 "value":"https:\/\/m18.uni-weimar.de\/pad\/p\/<iframe name=\"embed_readwrite\" src=\"https:\/\/m18.uni-weimar.de\/pad\/p\/4_ZOF6kLrRqSiSGWariA?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false\" width=\"100%\" height=\"600\" frameborder=\"0\"><\/iframe>"
                 }],
          "type":"tilelayer",
          "visible":true,
